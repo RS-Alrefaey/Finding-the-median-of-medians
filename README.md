@@ -7,6 +7,4 @@ depends on the performance and the time taken to show the results.<br>
 we have 10,000 auto-generated data as an entry. additionally, the data have two <br>
 options when testing the algorithms, sorted and unsorted.
 <br>
-<br>
-<br>
-## The report shows the comparisons results.
+#### The report shows the comparisons results.
